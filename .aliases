@@ -1,3 +1,5 @@
 alias gs="git status"
 alias gweb='nohup google-chrome-stable > ~/.browser_nohup.out &'
+alias sl=ls
+alias ysh='yarn start:hot'
 
